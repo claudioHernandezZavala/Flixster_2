@@ -2,7 +2,7 @@
 
 Submitted by: **Claudio Hernandez**
 
-**Flixster 2** is a movie browsing app that allows users to browse the upcomoing movies
+**Flixster 2** is a movie browsing app that allows users to browse the upcoming movies
 
 Time spent: **3** hours spent in total
 
