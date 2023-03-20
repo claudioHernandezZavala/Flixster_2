@@ -24,10 +24,7 @@ The following **optional** features are implemented:
 
 # Video Walkthrough
 
-#![app walkthrough flixster2](https://user-images.githubusercontent.com/101302200/226482423-aa41bc21-96af-47ec-bf7e-c0ced436639e.gif)
-
-Here's a walkthrough of implemented user stories:
-
+![app walkthrough flixster2](https://user-images.githubusercontent.com/101302200/226482423-aa41bc21-96af-47ec-bf7e-c0ced436639e.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
